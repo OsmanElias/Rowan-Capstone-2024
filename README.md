@@ -1,4 +1,4 @@
-### **CinemaWorld**
+# **CinemaWorld**
 
 
 ## **Overview**
@@ -7,53 +7,56 @@ CinemaWorld is a full-stack web application that provides comprehensive movie in
 
 
 
-# **Technologies Used**
+### **Technologies Used**
 
-Front-End: React, HTML, CSS
-Back-End: Node.js, Express
-Database: MongoDB
-Authentication: Passport.js
-
-
-# **Features**
--Movie search functionality with various filters
--User registration and authentication
--Detailed movie descriptions including cast, crew, and user reviews
--User profile management
--Responsive web design for various devices
+- Front-End: React, HTML, CSS
+- Back-End: Node.js, Express
+- Database: MongoDB
+- Authentication: Passport.js
 
 
-## **Getting Started**
-**Prerequisites**
+### **Features**
+- Movie search functionality with various filters
+- User registration and authentication
+- Detailed movie descriptions including cast, crew, and user reviews
+- User profile management
+- Responsive web design for various devices
 
-# **Before running this project locally, you'll need to install the following software:**
+
+### **Getting Started**
+Prerequisites
+
+
+
+
+## **Before running this project locally, you'll need to install the following software:**
 
 Node.js
 MongoDB
 Git (optional, for cloning the repository)
 
 
-# **Installation**
+### **Installation**
 Follow these steps to get your development environment running:
 
-# **Clone the repository (optional):**
+### **Clone the repository (optional):**
 
 git clone https://github.com/yourusername/cinemaworld.git
 cd cinemaworld
 
 
-# **Install backend dependencies:**
+### **Install backend dependencies:**
 
 cd server
 npm install
 
-# **Install frontend dependencies:**
+### **Install frontend dependencies:**
 
 cd into root
 npm install
 
 
-# **Set up environment variables:**
+### **Set up environment variables:**
 Create a .env file in the server directory and add the following:
 
 PORT=3000
@@ -78,17 +81,28 @@ Open a new terminal window, go to the client directory, and run:
 npm start
 
 
+## Usage
 
-## **Usage**
--Home Page: Browse the latest movies and featured content.
--Search: Use the search bar to find movies by titles.
--Authentication: Users can register and log in to access personalized features.
--Movie Details: Click on any movie card to get detailed information including reviews, ratings, and cast.
+- **Home Page:** Browse the latest movies and featured content.
+- **Search:** Use the search bar to find movies by titles.
+- **Authentication:** Users can register and log in to access personalized features.
+- **Movie Details:** Click on any movie card to get detailed information including reviews, ratings, and cast.
 
 ## **Contributing**
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
+
+
+
+### Current development screenshots: ![login](https://github.com/OsmanElias/Rowan-Capstone-2024/assets/93014594/2d13feb3-f513-48c0-9b8d-be1e9c93d6ba)
+![save to queue](https://github.com/OsmanElias/Rowan-Capstone-2024/assets/93014594/a4963e27-98b2-4d00-a508-a90262573b51)
+
+
+
+
+
+
 
 # **License**
 MIT
